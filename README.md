@@ -1,9 +1,17 @@
 # Catalogue App
 
+## Rendu IFI PHP
+
 **Sarah BEN ABDESSLEM**
 **Jayjaywantee KOODUN**
 
 Master 2 e-Services 2019/2020
+
+---
+
+## Description
+
+Ceci est un projet simple pour lister les articles d'un catalogue de produit depuis un fichier yaml. Il est possible d'afficher les détails d'un produit.
 
 ---
 
@@ -23,12 +31,6 @@ Après avoir cloné ce projet, assurez-vous d'avoir la dernière version de Comp
 composer install
 ```
 
-Ensuite, installez les dépendances NPM du projet avec :
-
-```bash
-npm install
-```
-
 Créer une copie du fichier `.env` à la racine du projet :
 
 ```bash
@@ -39,27 +41,8 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-Lancer l'étape de build pour les pré-processeurs CSS et JavaScript avec :
-
-```bash
-npm run dev
-```
-
 Vous pouvez maintenant lancer un serveur de développement sur l'adresse _http://localhost:8000_ avec la commande :
 
 ```bash
 php artisan serve
-```
-
-Si, pour une raison quelconque, votre projet cesse de fonctionner, procédez comme suit pour réinstaller les dépendances et mettre à jour les tables dans la base des données :
-
-```bash
-composer install
-php artisan migrate
-```
-
-Si une ou plusieurs classes sont introuvables :
-
-```bash
-composer dump-autoload
 ```
