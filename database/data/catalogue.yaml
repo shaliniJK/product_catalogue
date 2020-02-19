@@ -1,0 +1,127 @@
+products:
+  - name: Blonde Ristretto Bianco
+    description: Boissons de Saisons
+    price: 4,30
+  - name: Blonde Americano
+    description: Boissons de Saisons
+    price: 3,20
+  - name: Blonde Cappuccino
+    description: Boissons de Saisons
+    price: 4,30
+  - name: Blonde Vanilla Latte
+    description: Boissons de Saisons
+    price: 4,95
+  - name: Peach Citrus Green Tea Unsweetened
+    description: Teavana
+    price: 4,95
+  - name: Peach Citrus Green Tea
+    description: Teavana
+    price: 4,95
+  - name: Green Tea Latte
+    description: Thés au Lait
+    price: 4,95
+  - name: Iced Hibiscus Tea
+    description: Thés Glacés Frappés
+    price: 4,95
+  - name: Boissons au Chocolat
+    description: Chocolat Viennois Classic
+    price: 4,95
+  - name: Boissons au Chocolat
+    description: Chocolat Viennois Signature
+    price: 4,95
+  - name: Boissons au Chocolat
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Espresso/Ristretto
+    description: Boissons à base d’espresso
+    price: 2,00
+  - name: Espresso Macchiato
+    description: Boissons à base d’espresso
+    price: 2,50
+  - name: Espresso Macchiato
+    description: Boissons à base d’espresso
+    price: 2,50
+  - name: Espresso con Panna
+    description: Boissons à base d’espresso
+    price: 2,50
+  - name: Espresso Con Panna
+    description: Boissons à base d’espresso
+    price: 2,50
+  - name: Ristretto Bianco
+    description: Boissons à base d’espresso
+    price: 2,50
+  - name: Ristretto Bianco
+    description: Boissons à base d’espresso
+    price: 2,50
+  - name: Caffè Latte
+    description: Boissons à base d’espresso
+    price: 4,30
+  - name: Cappuccino
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Caffè Mocha
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Mocha Blanc
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Caramel Macchiato
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Caffè Americano
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Café de la semaine
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Café de la semaine
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Mocha Glacé
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Mocha glacé
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Caramel Macchiato Glacé
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Iced Caramel Macchiato
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Caffè Latte glacé
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Caffè Americano glacé
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Cold Brew
+    description: Boissons à base d’espresso
+    price: 4,95
+  - name: Mocha Light Frappuccino
+    description: Boisson glacée et frappée au Café
+    price: 4,95
+  - name: Java Chip Light Frappuccino
+    description: Boisson glacée et frappée au Café
+    price: 4,95
+  - name: Java Chip Light Frappuccino
+    description: Boisson glacée et frappée au Café
+    price: 4,95
+  - name: Caramel Light Frappuccino
+    description: Boisson glacée et frappée au Café
+    price: 4,95
+  - name: Espresso Light Frappuccino
+    description: Boisson glacée et frappée au Café
+    price: 4,95
+  - name: Vanille Frappuccino
+    description: Boisson glacée et frappée sans Café
+    price: 4,95
+  - name: Caramel Frappuccino
+    description: Boisson glacée et frappée sans Café
+    price: 4,95
+  - name: Chocolat Frappuccino
+    description: Boisson glacée et frappée sans Café
+    price: 4,95
+  - name: Chocolat Frappuccino
+    description: Boisson glacée et frappée sans Café
+    price: 4,95
